@@ -11,9 +11,7 @@ Following successful iterations of this workshop at [ICML 2022](https://ml4astro
 
 An important aspect to the success of Machine Learning in Astrophysics is to create a two-way interdisciplinary dialog in which concrete data-analysis challenges can spur the development of dedicated Machine Learning tools, which this workshop aims to facilitate. We expect this workshop to appeal to ICML audiences as an opportunity to connect their research interests to concrete and outstanding scientific challenges.
 
-# Call for Abstracts
-
-We welcome submissions that target or _report on_ the following non-exhaustive list of problems:
+We welcome in particular submissions that target or _report on_ the following non-exhaustive list of problems:
 
 - Efficient high-dimensional inference
 - Robustness to covariate shifts and model misspecification
@@ -28,6 +26,34 @@ We welcome submissions that target or _report on_ the following non-exhaustive l
 
 We encourage both submissions on these topics with an astrophysics focus, as well as more methodologically oriented works with potential applications in the physical sciences.
 
+<div style=" display: flex; justify-content: center; align-items: center;"  class="clearfix">
+  <a class="btn btn-primary" href="{{"#call-for-abstracts" | relative_url }}">See Call For Abstracts</a>
+</div>
+
+<br>
+
+# Program
+
+### Invited Speakers and Panelists
+
+*Coming soon - Check back for updates on our exciting lineup of speakers!*
+
+<br>
+
+### Workshop Schedule
+
+*Coming soon - The detailed schedule will be announced after the abstract submission and review process.*
+
+<br>
+
+### Accepted Contributions
+
+*Coming soon - Accepted papers will be listed here after the review process.*
+
+<br>
+
+# Call for Abstracts
+
 ## Important Dates
 
 - Abstract Submission Deadline: TBD
@@ -36,7 +62,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 ## Submission Guidelines
 
-- Submissions should be in the form of extended abstracts (4 pages) following the ICML 2025 format
+- Submissions should be in the form of extended abstracts (2-4 pages) following the ICML 2025 format
 - Submissions should clearly articulate the connection between machine learning and astrophysics
 - Work that has been previously published at other venues is eligible for submission, provided it is clearly indicated
 - Submissions will be reviewed by our program committee based on their technical quality, clarity, and relevance to the workshop
@@ -45,13 +71,9 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 Details about the submission process will be announced soon. Please check back for updates.
 
-# Program
-
-The detailed program, including keynote speakers, invited talks, and schedule, will be announced after the abstract submission and review process.
-
 # Organizing Committee
 
-[List of organizers to be added]
+*Coming soon - Check back for updates on our organizing committee.*
 
 # Contact
 
