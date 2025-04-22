@@ -1,0 +1,92 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+<header class="masthead" style="background-image: url('{{ page.background | relative_url }}')">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="site-heading">
+          <h1>{{ site.title }}</h1>
+          <span class="subheading">{{ site.description }}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="particles-js"></div>
+</header>
+
+<!-- Main Content -->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      {{ content }}
+    </div>
+  </div>
+</div>
+
+<style>
+.masthead {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  min-height: 500px;
+  padding: 200px 0;
+  text-align: center;
+  background: no-repeat center center scroll;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.masthead .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #212529;
+  opacity: 0.5;
+  z-index: 1;
+}
+
+.masthead .container {
+  position: relative;
+  z-index: 2;
+}
+
+.site-heading {
+  padding: 200px 0 150px;
+  color: white;
+}
+
+@media only screen and (min-width: 768px) {
+  .masthead {
+    height: 100vh;
+    min-height: 500px;
+    padding: 0;
+  }
+  .site-heading {
+    padding: 150px 0;
+  }
+}
+</style>
+
+<script src="{{ '/assets/particles.min.js' | relative_url }}"></script>
+<script>
+particlesJS.load('particles-js', "{{ '/assets/particles.json' | relative_url }}", function() {
+  console.log('callback - particles.js config loaded');
+});
+</script> 
