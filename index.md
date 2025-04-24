@@ -5,26 +5,25 @@ background: "/assets/background.jpg"
 
 # Rationale
 
-As modern astrophysical surveys deliver an unprecedented amount of data, from the imaging of hundreds of millions of distant galaxies to the mapping of cosmic radiation fields at ultra-high resolution, conventional data analysis methods are reaching their limits in both computational complexity and optimality. Deep Learning has rapidly been adopted by the astronomical community as a promising way of exploiting these forthcoming big-data datasets and of extracting the physical principles that underlie these complex observations. This has led to an unprecedented exponential growth of publications combining Machine Learning and astrophysics. Yet, many of these works remain at an exploratory level and have not been translated into real scientific breakthroughs.
+As modern astrophysical surveys deliver an unprecedented amount of data, from the imaging of billions of distant galaxies to the innermost region of supermassive blackholes, the integration of AI into scientific workflows, which have stringent accuracy requirements, becomes increasingly crucial to exploit the full information content of these datasets. In addition, the multimodal and publicly accessible nature of astronomical data creates a fertile development ground for large scientific models, with applications far beyond astronomy. 
 
-Following successful iterations of this workshop at [ICML 2022](https://ml4astro.github.io/icml2022/) and [ICML 2023](https://ml4astro.github.io/icml2023/), our continued goal for this workshop series is to **bring together Machine Learning researchers and domain experts in the field of Astrophysics** to discuss the key open issues which hamper the use of Deep Learning for scientific discovery, and to present high-quality and cutting-edge work at the intersection between machine learning and astrophysics.
-
-An important aspect to the success of Machine Learning in Astrophysics is to create a two-way interdisciplinary dialog in which concrete data-analysis challenges can spur the development of dedicated Machine Learning tools, which this workshop aims to facilitate. We expect this workshop to appeal to ICML audiences as an opportunity to connect their research interests to concrete and outstanding scientific challenges.
+Following successful iterations of this workshop at [ICML 2022](https://ml4astro.github.io/icml2022/) and [ICML 2023](https://ml4astro.github.io/icml2023/), our continued goal for this workshop series is to **bring together Machine Learning researchers and domain experts in the field of Astrophysics** to discuss key opportunities, create new synergies and help promote the large-scale application of AI for science. We expect this workshop to appeal to ICML audiences as an opportunity to connect their research interests to concrete and outstanding scientific challenges.
 
 We welcome in particular submissions that target or _report on_ the following non-exhaustive list of problems:
 
-- Efficient high-dimensional inference
+- Foundation models for astrophysics and their (potential) impact on discovery 
+- Integration of LLMs and agents in scientific workflows
+- Efficient high-dimensional Likelihood-based and Simulation-Based Inference
 - Robustness to covariate shifts and model misspecification
 - Anomaly and outlier detection, search for rare signals with ML
-- Methods for accurate uncertainty quantification
-- Methods for improving interpretability of models
+- Methods for model interpretability
 - (Astro)-physics informed models, symmetry and equivariance-preserving models
-- Methods of emulation / acceleration of simulation models
-- Benchmarking and deployment of ML models for large-scale data analysis
-- Foundation models and LLMs for scientific discovery
-- Generative models for astrophysical data
+- Deep Learning for accelerating numerical simulations
 
 We encourage both submissions on these topics with an astrophysics focus, as well as more methodologically oriented works with potential applications in the physical sciences.
+
+To further drive meaningful progress in the field, we are introducing this year a **new dedicated Benchmark Track**, inviting contributions that establish rigorous, insightful, and consequential benchmarks aligned with any of the workshop’s core themes. The goal is to encourage benchmarks that not only measure performance but also provide actionable insights into real-world applicability and impact. Submissions will be rigorously evaluated by an expert panel, with a strong emphasis on the validity of benchmark metrics as proxies for real-world success. 
+
 
 <div style=" display: flex; justify-content: center; align-items: center;"  class="clearfix">
   <a class="btn btn-primary" href="{{"#call-for-abstracts" | relative_url }}">See Call For Abstracts</a>
