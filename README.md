@@ -4,12 +4,13 @@
 
 As astrophysical datasets swell in scale and complexity, integrating AI into scientific workflows has become critical to unlock their full potential. Building on our successful ICML 2022 and 2023 editions, this workshop aims to connect ML researchers and astrophysicists to advance AI methods for discovery, inference, and understanding in the physical sciences. We invite submissions on topics including: 
 
-* Foundation models
-* LLMs and agents for science
-* Likelihood-based inference
-* Robustness
-* Rare signal detection
-* Interpretability
-* Physics-informed modeling
-* Simulation acceleration
-* Scientific benchmarks
+* Foundation models and representation learning for astrophysics
+* Integration of large language models and autonomous agents in scientific workflows
+* Efficient simulation-based inference and likelihood-free methods in high-dimensional settings
+* Robustness to dataset shift and model misspecification
+* ML for detecting anomalies, rare signals, and novel phenomena
+* Methods for scientific model Interpretability
+* Equivariance-preserving and physics-informed architectures
+* Accelerated and differentiable simulations using deep learning
+* Benchmark datasets aligned with the above themes
+
