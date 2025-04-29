@@ -104,6 +104,11 @@ Details about the submission process will be announced soon. Please check back f
     <h5>Marc Huertas-Company</h5>IAC 
   </div>
   <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/mciver.jpg"/>
+    <br>
+    <h5>Jess McIver</h5>UBC
+  </div>
+  <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/villaescusa.png"/>
     <br>
     <h5>Francisco Villaescusa-Navarro</h5>Simons Foundation
