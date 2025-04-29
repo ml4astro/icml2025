@@ -99,12 +99,12 @@ Details about the submission process will be announced soon. Please check back f
 
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/huertas-company.png"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/huertas-company.png"/>
     <br>
     <h5>Marc Huertas-Company</h5>IAC 
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/mciver.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/mciver.jpg"/>
     <br>
     <h5>Jess McIver</h5>UBC
   </div>
@@ -112,8 +112,6 @@ Details about the submission process will be announced soon. Please check back f
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/villaescusa.png"/>
     <br>
     <h5>Francisco Villaescusa-Navarro</h5>Simons Foundation
-  </div>
-  <div class="col center-block text-center">
   </div>
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/avillar.jpg"/>
