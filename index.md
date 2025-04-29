@@ -77,6 +77,8 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 - *Camera-Ready Poster Deadline:* July 18th
 - *Workshop Date:* July 20th (ICML, Vancouver)
 
+<br>
+
 ## Submission Guidelines
 
 - Submissions should be in the form of extended abstracts (2-4 pages) following the <a href="https://icml.cc/Conferences/2025/AuthorInstructions">ICML 2025 format</a>.
@@ -84,9 +86,13 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 - Work that has been previously published at other venues is eligible for submission, provided it is clearly indicated
 - Submissions will be reviewed by our program committee based on their technical quality, clarity, and relevance to the workshop
 
+<br>
+
 ## Submission Process
 
 Details about the submission process will be announced soon. Please check back for updates.
+
+<br>
 
 # Organizing Committee
 
@@ -143,6 +149,8 @@ Details about the submission process will be announced soon. Please check back f
   <div class="col center-block text-center"></div>
 </div>
 </div>
+<br>
+<br>
 
 # Contact
 
