@@ -31,7 +31,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 # Program
 
-### Invited Speakers and Panelists
+### Invited Speakers
 <div class="container">
 <div class="row no-gutters">
   <div class="col center-block text-center">
@@ -51,6 +51,11 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
   </div>
 </div>
 </div>
+
+<br>
+
+### Panelists
+
 *More to come! Check back for updates on our exciting lineup of speakers.*
 
 <br>
