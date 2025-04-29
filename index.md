@@ -89,6 +89,11 @@ Details about the submission process will be announced soon. Please check back f
     <br>
     <h5>Laurence Perreault-Levasseur</h5> University of Montreal
   </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/francois_lanusse_square2.png"/>
+    <br>
+    <h5>Francois Lanusse</h5>CNRS
+  </div>
 </div>
 <br>
 
@@ -96,7 +101,7 @@ Details about the submission process will be announced soon. Please check back f
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2023/assets/huertas-company.png"/>
     <br>
-    <h5>Marc Huertas-Company</h5>IAC (Co-Chair) 
+    <h5>Marc Huertas-Company</h5>IAC 
   </div>
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/villaescusa.png"/>
