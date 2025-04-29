@@ -94,7 +94,7 @@ Details about the submission process will be announced soon. Please check back f
 
 <br>
 
-# Organizing Committee
+# SOC 
 
 <div class="container">
 <div class="row no-gutters">
@@ -152,6 +152,6 @@ Details about the submission process will be announced soon. Please check back f
 <br>
 <br>
 
-# Contact
+# Contact Us
 
 For any questions, please send an email to *ml4astro2025[at]gmail.com*.
