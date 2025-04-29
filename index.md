@@ -32,7 +32,25 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 # Program
 
 ### Invited Speakers and Panelists
-
+<div class="container">
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/ho.jpeg"/>
+    <br>
+    <h5>Shirley Ho</h5>PolymathicAI
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/lintott.jpeg"/>
+    <br>
+    <h5>Chris Lintott</h5>Oxford
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/pillepich.jpg"/>
+    <br>
+    <h5>Annalisa Pillepich</h5>MPIA
+  </div>
+</div>
+</div>
 *Coming soon - Check back for updates on our exciting lineup of speakers!*
 
 <br>
@@ -89,15 +107,15 @@ Details about the submission process will be announced soon. Please check back f
     <br>
     <h5>Laurence Perreault-Levasseur</h5> University of Montreal
   </div>
+</div>
+<br>
+
+<div class="row no-gutters">
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/francois_lanusse_square2.png"/>
     <br>
     <h5>Francois Lanusse</h5>CNRS
   </div>
-</div>
-<br>
-
-<div class="row no-gutters">
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/huertas-company.png"/>
     <br>
@@ -108,6 +126,10 @@ Details about the submission process will be announced soon. Please check back f
     <br>
     <h5>Jess McIver</h5>UBC
   </div>
+</div>
+<br>
+
+<div class="row no-gutters"> 
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/villaescusa.png"/>
     <br>
@@ -118,6 +140,7 @@ Details about the submission process will be announced soon. Please check back f
     <br>
     <h5>Ashley Villar</h5>Harvard University
   </div>
+  <div class="col center-block text-center"></div>
 </div>
 </div>
 
