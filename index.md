@@ -19,11 +19,9 @@ We welcome in particular submissions that target or _report on_ the following no
 - Methods for model interpretability
 - (Astro)-physics informed models, symmetry and equivariance-preserving models
 - Deep Learning for accelerating numerical simulations
+- Benchmark datasets aligned with any of the above themes
 
-We encourage both submissions on these topics with an astrophysics focus, as well as more methodologically oriented works with potential applications in the physical sciences.
-
-To further drive meaningful progress in the field, we are introducing this year a **new dedicated Benchmark Track**, inviting contributions that establish rigorous, insightful, and consequential benchmarks aligned with any of the workshop’s core themes. The goal is to encourage benchmarks that not only measure performance but also provide actionable insights into real-world applicability and impact. Submissions will be rigorously evaluated by an expert panel, with a strong emphasis on the validity of benchmark metrics as proxies for real-world success. 
-
+We encourage both submissions on these topics with an astrophysics focus, as well as more methodologically oriented works with potential applications in the physical sciences. Submissions focusing on preliminary work and work submitted elsewhere are also welcome.
 
 <div style=" display: flex; justify-content: center; align-items: center;"  class="clearfix">
   <a class="btn btn-primary" href="{{"#call-for-abstracts" | relative_url }}">See Call For Abstracts</a>
@@ -55,13 +53,15 @@ To further drive meaningful progress in the field, we are introducing this year 
 
 ## Important Dates
 
-- Abstract Submission Deadline: TBD
-- Notification of Acceptance: TBD
-- Workshop Date: TBD (ICML 2025, Vancouver)
+- *Abstract Submission Deadline:* June 1st (23:59, AoE)
+- *Notification Deadline:* June 22nd
+- *Camera-Ready Paper Deadline:* July 11th
+- *Camera-Ready Poster Deadline:* July 18th
+- *Workshop Date:* July 20th (ICML, Vancouver)
 
 ## Submission Guidelines
 
-- Submissions should be in the form of extended abstracts (2-4 pages) following the ICML 2025 format
+- Submissions should be in the form of extended abstracts (2-4 pages) following the <a href="https://icml.cc/Conferences/2025/AuthorInstructions">ICML 2025 format</a>.
 - Submissions should clearly articulate the connection between machine learning and astrophysics
 - Work that has been previously published at other venues is eligible for submission, provided it is clearly indicated
 - Submissions will be reviewed by our program committee based on their technical quality, clarity, and relevance to the workshop
@@ -72,8 +72,46 @@ Details about the submission process will be announced soon. Please check back f
 
 # Organizing Committee
 
-*Coming soon - Check back for updates on our organizing committee.*
+<div class="container">
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/cuesta.jpeg"/>
+    <br>
+    <h5>Carolina Cuesta-Lazaro</h5>MIT/IAIFI
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/gagliano.jpg"/>
+    <br>
+    <h5>Alex Gagliano</h5>MIT/IAIFI
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/Levasseur_Laurence-509x676.jpg"/>
+    <br>
+    <h5>Laurence Perreault-Levasseur</h5> University of Montreal
+  </div>
+</div>
+<br>
+
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/Levasseur_Laurence-509x676.jpg"/>
+    <br>
+    <h5>Laurence Perreault-Levasseur</h5> University of Montreal
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/villaescusa.png"/>
+    <br>
+    <h5>Francisco Villaescusa-Navarro</h5>Simons Foundation
+  </div>
+  <div class="col center-block text-center">
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/avillar.jpg"/>
+    <br>
+    <h5>Ashley Villar</h5>Harvard University
+  </div>
+</div>
 
 # Contact
 
-For any questions, please contact [email to be added] 
+For any questions, please send an email to *ml4astro2025[at]gmail.com*.
