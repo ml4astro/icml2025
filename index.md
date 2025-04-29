@@ -51,7 +51,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
   </div>
 </div>
 </div>
-*Coming soon - Check back for updates on our exciting lineup of speakers!*
+*More to come! Check back for updates on our exciting lineup of speakers.*
 
 <br>
 
