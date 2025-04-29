@@ -12,7 +12,7 @@ Following successful iterations of this workshop at [ICML 2022](https://ml4astro
 We welcome in particular submissions that target or _report on_ the following non-exhaustive list of problems:
 
 - Foundation models for astrophysics and their (potential) impact on discovery 
-- Integration of LLMs and agents in scientific workflows
+- Integration of LLMs and autonomous agents in scientific workflows
 - Efficient high-dimensional Likelihood-based and Simulation-Based Inference
 - Robustness to covariate shifts and model misspecification
 - Anomaly and outlier detection, search for rare signals with ML
