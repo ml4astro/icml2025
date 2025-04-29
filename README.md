@@ -12,4 +12,4 @@ As astrophysical datasets swell in scale and complexity, integrating AI into sci
 * Interpretability
 * Physics-informed modeling
 * Simulation acceleration
-* Aligned benchmarks
+* Scientific benchmarks
