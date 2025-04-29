@@ -75,7 +75,7 @@ Details about the submission process will be announced soon. Please check back f
 <div class="container">
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/cuesta.jpeg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/cuesta.png"/>
     <br>
     <h5>Carolina Cuesta-Lazaro</h5>MIT/IAIFI
   </div>
