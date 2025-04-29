@@ -54,7 +54,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 <br>
 
-### Panelists
+### Invited Panelists
 
 *More to come! Check back for updates on our exciting lineup of speakers.*
 
