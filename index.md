@@ -111,6 +111,7 @@ Details about the submission process will be announced soon. Please check back f
     <h5>Ashley Villar</h5>Harvard University
   </div>
 </div>
+</div>
 
 # Contact
 
