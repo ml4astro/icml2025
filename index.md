@@ -21,7 +21,7 @@ We welcome in particular submissions that target or _report on_ the following no
 - Deep Learning for accelerating numerical simulations
 - Benchmark datasets aligned with any of the above themes
 
-We encourage both submissions on these topics with an astrophysics focus, as well as more methodologically oriented works with potential applications in the physical sciences. Submissions focusing on preliminary work and work submitted elsewhere are also welcome.
+We encourage both submissions on these topics with an astrophysics focus, as well as more methodologically oriented works with potential applications in the physical sciences. Submissions focusing on preliminary work and recent work submitted elsewhere are also welcome.
 
 <div style=" display: flex; justify-content: center; align-items: center;"  class="clearfix">
   <a class="btn btn-primary" href="{{"#call-for-abstracts" | relative_url }}">See Call For Abstracts</a>
@@ -88,7 +88,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 - Submissions should be in the form of extended abstracts (2-4 pages) following the <a href="https://icml.cc/Conferences/2025/AuthorInstructions">ICML 2025 format</a>.
 - Submissions should clearly articulate the connection between machine learning and astrophysics
-- Work that has been previously published at other venues is eligible for submission, provided it is clearly indicated
+- Work that has been recently published at other venues is eligible for submission, provided it is clearly indicated
 - Submissions will be reviewed by our program committee based on their technical quality, clarity, and relevance to the workshop
 
 <br>
