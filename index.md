@@ -32,24 +32,6 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 # Program
 
 ### Invited Speakers
-<div class="container">
-<div class="row no-gutters">
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/ho.jpg"/>
-    <br>
-    <h5>Shirley Ho</h5>PolymathicAI
-  </div>
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/lintott.jpeg"/>
-    <br>
-    <h5>Chris Lintott</h5>Oxford
-  </div>
-</div>
-</div>
-
-<br>
-
-### Invited Panelists
 
 *More to come! Check back for updates on our exciting lineup of speakers.*
 
