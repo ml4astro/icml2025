@@ -44,11 +44,6 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
     <br>
     <h5>Chris Lintott</h5>Oxford
   </div>
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/pillepich.jpg"/>
-    <br>
-    <h5>Annalisa Pillepich</h5>MPIA
-  </div>
 </div>
 </div>
 
@@ -76,7 +71,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 ## Important Dates
 
-- *Abstract Submission Deadline:* June 1st (23:59, AoE)
+- *Abstract Submission Deadline:* June 7th (23:59, AoE)
 - *Notification Deadline:* June 22nd
 - *Camera-Ready Paper Deadline:* July 11th
 - *Camera-Ready Poster Deadline:* July 18th
