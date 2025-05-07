@@ -53,7 +53,7 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 ## Important Dates
 
-- *Abstract Submission Deadline:* June 7th (23:59, AoE)
+- *Abstract Submission Deadline:* June 9th (23:59, AoE)
 - *Notification Deadline:* June 22nd
 - *Camera-Ready Paper Deadline:* July 11th
 - *Camera-Ready Poster Deadline:* July 18th
