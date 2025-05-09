@@ -72,7 +72,10 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 ## Submission Process
 
-Details about the submission process will be announced soon. Please check back for updates.
+Please submit your anonymized extended abstract through the link below **by June 9th, 23:59 AOE**. 
+<div style=" display: flex; justify-content: center; align-items: center;"  class="clearfix">
+  <a class="btn btn-primary" href="https://openreview.net/group?id=ICML.cc/2025/Workshop/ML4Astro">Submit an Abstract</a>
+</div>
 
 <br>
 
