@@ -35,7 +35,45 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
 
 ### Invited Speakers
 
-*More to come! Check back for updates on our exciting lineup of speakers.*
+<div class="container">
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/ho.jpg"/>
+    <br>
+    <h5>Shirley Ho</h5>CCA/Polymathic
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/feng.png"/>
+    <br>
+    <h5>Berthy Feng</h5>MIT/IAIFI
+  </div>
+</div>
+<br>
+
+
+<br>
+
+### Invited Panelists
+
+<div class="container">
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/sharma.png"/>
+    <br>
+    <h5>Siddharth Mishra-Sharma</h5>Anthropic/Boston University
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/zabludoff.jpeg"/>
+    <br>
+    <h5>Ann Zabludoff</h5>University of Arizona/Steward Observatory
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/speagle.jpg"/>
+    <br>
+    <h5>Joshua S. Speagle (沈佳士)</h5> University of Toronto
+  </div>
+</div>
+<br>
 
 <br>
 
