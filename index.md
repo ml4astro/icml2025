@@ -219,7 +219,7 @@ For any questions, please send an email to *ml4astro2025[at]gmail.com*.
 
 # Sponsors
 
-We are grateful for the supports from our sponsors.
+We are grateful for the support from our sponsors.
 
 
 <div class="row no-gutters"> 
