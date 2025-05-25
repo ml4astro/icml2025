@@ -31,6 +31,8 @@ We encourage both submissions on these topics with an astrophysics focus, as wel
 
 # Program
 
+_Note: As a co-located event, registration to ICML 2025 is not required to attend this workshop._
+
 ### Invited Speakers
 
 *More to come! Check back for updates on our exciting lineup of speakers.*
@@ -83,7 +85,7 @@ Please submit your anonymized extended abstract through the link below **by June
 
 <br>
 
-# Volunteering to serve as a Reviewer
+# Volunteering as a Reviewer
 
 Our goal is to ensure that all extended abstracts will receive at least two independent reviews, in a double-blind process. As we aim for high quality and constructive reviews, we do not want to ask volunteers to review many papers, which translates into needing a large pool of volunteers. 
 
