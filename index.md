@@ -227,8 +227,6 @@ We are grateful for the supports from our sponsors.
     <img style="width:20%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/iaifi.png"/>
     <br>
   </div>
-  <div class="col center-block text-center"></div>
-</div>
 </div>
 <br>
 
