@@ -224,7 +224,7 @@ We are grateful for the supports from our sponsors.
 
 <div class="row no-gutters"> 
   <div class="col center-block text-center">
-    <img style="width:20%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/iaifi.png"/>
+    <img style="width:20%; object-fit:cover;" src="/icml2025/assets/iaifi.png"/>
     <br>
   </div>
 </div>
