@@ -127,6 +127,16 @@ Please submit your anonymized extended abstract through the link below **by June
 
 <br>
 
+# Registration
+
+To register for the workshop (either in-person or remotely), submit the form below. Workshop registration is free.
+
+<div style=" display: flex; justify-content: center; align-items: center;"  class="clearfix">
+  <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdQyiAo99F_BXt0fjsPYM49Sf9IyFSYPGwyye9c37-jnLOQgw/viewform?usp=dialog">Workshop Registration</a>
+</div>
+
+<br>
+
 # Volunteering as a Reviewer
 
 Our goal is to ensure that all extended abstracts will receive at least two independent reviews, in a double-blind process. As we aim for high quality and constructive reviews, we do not want to ask volunteers to review many papers, which translates into needing a large pool of volunteers. 
@@ -206,3 +216,19 @@ We may reach out to provide further details and confirm your availability.
 # Contact Us
 
 For any questions, please send an email to *ml4astro2025[at]gmail.com*.
+
+# Sponsors
+
+We are grateful for the supports from our sponsors.
+
+
+<div class="row no-gutters"> 
+  <div class="col center-block text-center">
+    <img style="width:20%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/iaifi.pdf"/>
+    <br>
+  </div>
+  <div class="col center-block text-center"></div>
+</div>
+</div>
+<br>
+
