@@ -47,6 +47,8 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
     <br>
     <h5>Berthy Feng</h5>MIT/IAIFI
   </div>
+  <div class="col center-block text-center"></div>
+</div>
 </div>
 <br>
 
@@ -72,6 +74,8 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
     <br>
     <h5>Joshua S. Speagle (沈佳士)</h5> University of Toronto
   </div>
+  <div class="col center-block text-center"></div>
+</div>
 </div>
 <br>
 
