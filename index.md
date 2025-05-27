@@ -129,13 +129,25 @@ Please submit your anonymized extended abstract through the link below **by June
 
 # Registration
 
-To register for the workshop (either in-person or remotely), submit the form below. Workshop registration is free.
+To register for the workshop (either in-person or remotely), submit the form below. The registration deadline is **July 6th, 23:59 AOE**. Workshop registration is free.
 
 <div style=" display: flex; justify-content: center; align-items: center;"  class="clearfix">
   <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdQyiAo99F_BXt0fjsPYM49Sf9IyFSYPGwyye9c37-jnLOQgw/viewform?usp=dialog">Workshop Registration</a>
 </div>
 
 <br>
+
+# Venue
+
+ML4Astro 2025 will take place on the campus of the University of British Columbia (about 20 min from downtown Vancouver by car, 45 min by bus). 
+
+<div class="container">
+<div class="row no-gutters">
+    <img style="width:20%;" src="/icml2025/assets/ucb.jpg"/>
+</div>
+</div>
+<br>
+
 
 # Volunteering as a Reviewer
 
