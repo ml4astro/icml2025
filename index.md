@@ -143,7 +143,7 @@ ML4Astro 2025 will take place on the campus of the University of British Columbi
 
 <div class="container">
 <div class="row no-gutters">
-    <img style="width:20%;" src="/icml2025/assets/ucb.jpg"/>
+    <img style="width:100%;" src="/icml2025/assets/ucb.jpg"/>
 </div>
 </div>
 <br>
