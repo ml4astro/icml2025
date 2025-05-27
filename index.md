@@ -142,12 +142,17 @@ To register for the workshop (either in-person or remotely), submit the form bel
 ML4Astro 2025 will take place on the campus of the University of British Columbia (about 20 min from downtown Vancouver by car, 45 min by bus). 
 
 <div class="container">
-<div class="row no-gutters">
-    <img style="width:100%;" src="/icml2025/assets/ucb.jpg"/>
+  <div class="row">
+    <div class="col text-center">
+      <img 
+        src="/icml2025/assets/ucb.jpg"
+        class="img-fluid mx-auto d-block"
+        alt="UCB">
+    </div>
+  </div>
 </div>
-</div>
-<br>
 
+<br>
 
 # Volunteering as a Reviewer
 
