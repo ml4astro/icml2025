@@ -158,7 +158,7 @@ ML4Astro 2025 will take place on the campus of the University of British Columbi
 
 Our goal is to ensure that all extended abstracts will receive at least two independent reviews, in a double-blind process. As we aim for high quality and constructive reviews, we do not want to ask volunteers to review many papers, which translates into needing a large pool of volunteers. 
 
-As a result we are always looking for volunteers to help us review workshop submissions. If you are interested in serving as a reviewer, please let us know via the link below **before June 2nd**: 
+As a result we are always looking for volunteers to help us review workshop submissions. If you are interested in serving as a reviewer, please let us know via the link below **before Friday, June 13th AoE**: 
 
 <div style=" display: flex; justify-content: center; align-items: center;"  class="clearfix">
   <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSeWGdJ7HYviZIL6ot5JBXa5eHJjoe8ga60lWTDf2Lch3X-3zw/viewform?usp=sharing">Volunteer as Reviewer</a>
