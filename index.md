@@ -116,10 +116,7 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
 
 ## Submission Process
 
-Please submit your anonymized extended abstract through the link below **by June 9th, 23:59 AOE:**
-<div style=" display: flex; justify-content: center; align-items: center;"  class="clearfix">
-  <a class="btn btn-primary" href="https://openreview.net/group?id=ICML.cc/2025/Workshop/ML4Astro">Submit an Abstract</a>
-</div>
+The submission portal is now closed. Please volunteer as a reviewer and register to attend the workshop! 
 
 <br>
 
