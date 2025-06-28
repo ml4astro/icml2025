@@ -89,7 +89,7 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
 
 ### Accepted Contributions
 
-*Coming soon - Accepted papers will be listed here after the review process.*
+*Coming soon - Accepted papers will be listed here shortly.* 
 
 <br>
 
