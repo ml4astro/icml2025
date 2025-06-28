@@ -160,7 +160,7 @@ Lunch options:
 
 # Volunteering as a Reviewer
 
-Thank you to all who have volunteered to serve as a reviewer! The review process is underway and accepted abstracts will be announced shortly.
+Thank you to all who have volunteered to serve as a reviewer! The review process has now completed and accepted abstracts have been announced.
 
 <br>
 
