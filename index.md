@@ -139,7 +139,8 @@ ML4Astro 2025 will be held in the **Victoria Learning Theatre, Room 182 in the [
 
 **Accessibility**: the Victoria Learning Theatre is on the ground floor of the IBLC building, down a half flight of stairs. There is a mobility-accessible entrance on East Mall. Accessible and gender-inclusive single stall washrooms are located on levels 1, 3, and 4. See [IBLC's access guide](https://services.library.ubc.ca/facilities/disability-access-by-building/access-guide-ikblc/) for more details.
 
-Getting there:
+## Getting There
+
 **Public transit**:
 >- Routes from downtown Vancouver: Bus lines 004, 014, 044, and 084 each run every 12-15 minutes from various departure locations downtown. You can also take the metro (use the Canada Line) to an express bus (099 or R4). Metro trains and express busses arrive every ~5 minutes.
 >- Paying: At Skytrain stations and on buses, you can pay easily with your contactless credit or debit card as well as with Apple Pay, Google Pay, and Samsung Pay.
@@ -152,7 +153,8 @@ Getting there:
 
 **Parking**: The closest parking is the [North Parkade - 6115 Student Union Boulevard](https://parking.ubc.ca/map). Cost: $20 CAD for the day.
 
-Lunch options:
+## Lunch Options
+
 * Coffee and snacks will be provided at the start of the meeting and for the morning and afternoon breaks, but attendees will need to bring or procure their own lunch.
 * There are many options a short walk away from Irving K. Barber along University Blvd, including within the student centre (the "Nest").
 * See [UBC's list of restaurants and food courts](https://visit.ubc.ca/eat-drink-and-stay/restaurants/) for ideas.
