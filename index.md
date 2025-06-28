@@ -146,9 +146,11 @@ Getting there:
 >- Paying: At Skytrain stations and on buses, you can pay easily with your contactless credit or debit card as well as with Apple Pay, Google Pay, and Samsung Pay.
 >- Route planning: Google Maps is up to date with Vancouver's public transit network and can reliably be used to work out your route. Vancouver's Skytrains and buses have automated audible and visual bus stop announcements onboard.
 >- Cost: UBC and downtown Vancouver are in the same zone (Zone 1), total fare each way is $3.35 CAD.
-<br>
+
+
 **Taxi/Rideshare**: Lyft and Uber are available in Vancouver. Due to ongoing construction, it is best to direct your driver to drop you off at the [Robert. H Lee Alumni Centre - 6163 University Boulevard](https://www.google.com/maps/place/Robert+H.+Lee+Alumni+Centre/@49.2673046,-123.2526421,650m/data=!3m1!1e3!4m6!3m5!1s0x548672b6360dff9d:0x82fa3ec0bf22ed35!8m2!3d49.2659289!4d-123.2500243!16s%2Fg%2F11b6gd5f15!5m1!1e2?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D). From there, the Irving K. Barber Learning Centre is a 5 min walk. Cost: ~$40 each way.
-<br>
+
+
 **Parking**: The closest parking is the [North Parkade - 6115 Student Union Boulevard](https://parking.ubc.ca/map). Cost: $20 CAD for the day.
 
 Lunch options:
