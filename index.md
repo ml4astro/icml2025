@@ -98,9 +98,8 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
 ## Important Dates
 
 - *Abstract Submission Deadline:* June 9th (23:59, AoE)
-- *Notification Deadline:* June 22nd
-- *Camera-Ready Paper Deadline:* July 11th
-- *Camera-Ready Poster Deadline:* July 18th
+- *Notification Deadline:* June 28th
+- *Camera-Ready Paper Deadline:* July 14th (23:59, AoE)
 - *Workshop Date:* July 20th (ICML, Vancouver)
 
 <br>
@@ -136,18 +135,25 @@ To register for the workshop (either in-person or remotely), submit the form bel
 
 # Venue
 
-ML4Astro 2025 will take place on the campus of the University of British Columbia (about 20 min from downtown Vancouver by car, 45 min by bus). 
+ML4Astro 2025 will be held in the **Victoria Learning Theatre, Room 182 in the [Irving K. Barber Learning Centre](https://learningspaces.ubc.ca/buildings/irving-k-barber-learning-centre-iblc/)**.
 
-<div class="container">
-  <div class="row">
-    <div class="col text-center">
-      <img 
-        src="/icml2025/assets/ucb.jpg"
-        class="img-fluid mx-auto d-block"
-        alt="UCB">
-    </div>
-  </div>
-</div>
+**Accessibility**: the Victoria Learning Theatre is on the ground floor of the IBLC building, down a half flight of stairs. There is a mobility-accessible entrance on East Mall. Accessible and gender-inclusive single stall washrooms are located on levels 1, 3, and 4. See [IBLC's access guide](https://services.library.ubc.ca/facilities/disability-access-by-building/access-guide-ikblc/) for more details.
+
+Getting there:
+• **Public transit**:
+• >- Routes from downtown Vancouver: Bus lines 004, 014, 044, and 084 each run every 12-15 minutes from various departure locations downtown. You can also take the metro (use the Canada Line) to an express bus (099 or R4). Metro trains and express busses arrive every ~5 minutes.
+• >- Paying: At Skytrain stations and on buses, you can pay easily with your contactless credit or debit card as well as with Apple Pay, Google Pay, and Samsung Pay.
+• >- Route planning: Google Maps is up to date with Vancouver's public transit network and can reliably be used to work out your route. Vancouver's Skytrains and buses have automated audible and visual bus stop announcements onboard.
+• >- Cost: UBC and downtown Vancouver are in the same zone (Zone 1), total fare each way is $3.35 CAD.
+
+• **Taxi/Rideshare**: Lyft and Uber are available in Vancouver. Due to ongoing construction, it is best to direct your driver to drop you off at the [Robert. H Lee Alumni Centre - 6163 University Boulevard](https://www.google.com/maps/place/Robert+H.+Lee+Alumni+Centre/@49.2673046,-123.2526421,650m/data=!3m1!1e3!4m6!3m5!1s0x548672b6360dff9d:0x82fa3ec0bf22ed35!8m2!3d49.2659289!4d-123.2500243!16s%2Fg%2F11b6gd5f15!5m1!1e2?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D). From there, the Irving K. Barber Learning Centre is a 5 min walk. Cost: ~$40 each way.
+
+• **Parking**: The closest parking is the [North Parkade - 6115 Student Union Boulevard](https://parking.ubc.ca/map). Cost: $20 CAD for the day.
+
+Lunch options:
+• Coffee and snacks will be provided at the start of the meeting and for the morning and afternoon breaks, but attendees will need to bring or procure their own lunch.
+• There are many options a short walk away from Irving K. Barber along University Blvd, including within the student centre (the "Nest").
+• See [UBC's list of restaurants and food courts](https://visit.ubc.ca/eat-drink-and-stay/restaurants/) for ideas.
 
 <br>
 
