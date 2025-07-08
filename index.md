@@ -53,7 +53,7 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
     </div>
     <!-- Lukas Heinrich -->
     <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
-      <img src="/icml2025/assets/heinrich.jpg"
+      <img src="/icml2025/assets/heinrich.png"
            style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
       <h5 class="mt-2 mb-1" style="font-weight: bold;">Lukas Heinrich</h5>
       <div>Technical University Munich</div>
