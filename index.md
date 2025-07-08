@@ -84,27 +84,37 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
 ### Invited Panelists
 
 <div class="container">
-<div class="row no-gutters">
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/sharma.png"/>
-    <br>
-    <h5>Siddharth Mishra-Sharma</h5>Anthropic/Boston University
+  <div class="row no-gutters">
+    <!-- Siddharth Mishra-Sharma -->
+    <div class="col-3 d-flex flex-column align-items-center text-center mb-4">
+      <img src="/icml2025/assets/sharma.png"
+           style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
+      <h5 class="mt-2 mb-1" style="font-weight: bold;">Siddharth Mishra-Sharma</h5>
+      <div>Anthropic/Boston University</div>
+    </div>
+    <!-- Ann Zabludoff -->
+    <div class="col-3 d-flex flex-column align-items-center text-center mb-4">
+      <img src="/icml2025/assets/zabludoff.jpeg"
+           style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
+      <h5 class="mt-2 mb-1" style="font-weight: bold;">Ann Zabludoff</h5>
+      <div>University of Arizona/Steward Observatory</div>
+    </div>
+    <!-- Joshua S. Speagle -->
+    <div class="col-3 d-flex flex-column align-items-center text-center mb-4">
+      <img src="/icml2025/assets/speagle.jpg"
+           style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
+      <h5 class="mt-2 mb-1" style="font-weight: bold;">Joshua S. Speagle (沈佳士)</h5>
+      <div>University of Toronto</div>
+    </div>
+    <!-- Placeholder cell -->
+    <div class="col-3 d-flex flex-column align-items-center text-center mb-4">
+      <div style="width: 100%; aspect-ratio: 1/1; background: #fff; border-radius: 8px; border: 2px dashed #eee;"></div>
+    </div>
   </div>
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/zabludoff.jpeg"/>
-    <br>
-    <h5>Ann Zabludoff</h5>University of Arizona/Steward Observatory
-  </div>
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/speagle.jpg"/>
-    <br>
-    <h5>Joshua S. Speagle (沈佳士)</h5> University of Toronto
-  </div>
-  <div class="col center-block text-center"></div>
 </div>
-</div>
-<br>
 
+
+<br>
 <br>
 
 ### Workshop Schedule
