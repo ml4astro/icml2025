@@ -36,42 +36,48 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
 ### Invited Speakers
 
 <div class="container">
-<div class="row no-gutters">
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/ho.jpg"/>
-    <br>
-    <h5>Shirley Ho</h5>CCA/Polymathic
+  <div class="row no-gutters">
+    <!-- Shirley Ho -->
+    <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
+      <img src="/icml2025/assets/ho.jpg"
+           style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
+      <h5 class="mt-2 mb-1" style="font-weight: bold;">Shirley Ho</h5>
+      <div>CCA/Polymathic</div>
+    </div>
+    <!-- Berthy Feng -->
+    <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
+      <img src="/icml2025/assets/feng.png"
+           style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
+      <h5 class="mt-2 mb-1" style="font-weight: bold;">Berthy Feng</h5>
+      <div>MIT/IAIFI</div>
+    </div>
+    <!-- Lukas Heinrich -->
+    <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
+      <img src="/icml2025/assets/heinrich.jpg"
+           style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
+      <h5 class="mt-2 mb-1" style="font-weight: bold;">Lukas Heinrich</h5>
+      <div>Technical University Munich</div>
+    </div>
+    <!-- Annalisa Pillepich -->
+    <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
+      <img src="/icml2025/assets/is_pillepich_square.jpg"
+           style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
+      <h5 class="mt-2 mb-1" style="font-weight: bold;">Annalisa Pillepich</h5>
+      <div>MPI</div>
+    </div>
+    <!-- James Zou -->
+    <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
+      <img src="/icml2025/assets/zou.jpg"
+           style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
+      <h5 class="mt-2 mb-1" style="font-weight: bold;">James Zou</h5>
+      <div>Stanford</div>
+    </div>
+    <!-- Placeholder cell -->
+    <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
+      <div style="width: 100%; aspect-ratio: 1/1; background: #fff; border-radius: 8px; border: 2px dashed #eee;"></div>
+    </div>
   </div>
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/feng.png"/>
-    <br>
-    <h5>Berthy Feng</h5>MIT/IAIFI
-  </div>
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/heinrich.jpg"/>
-    <br>
-    <h5>Lukas Heinrich</h5> Technical University Munich
-  </div>
-  <div class="col center-block text-center"></div>
 </div>
-</div>
-
-<div class="container">
-<div class="row no-gutters">
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/is_pillepich_square.jpg"/>
-    <br>
-    <h5>Annalisa Pillepich</h5>MPI
-  </div>
-  <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/zou.jpg"/>
-    <br>
-    <h5>James Zou</h5>Stanford
-  </div>
-<div class="col center-block text-center"></div>
-</div>
-</div>
-<br>
 
 <br>
 
