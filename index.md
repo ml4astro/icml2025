@@ -47,11 +47,31 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
     <br>
     <h5>Berthy Feng</h5>MIT/IAIFI
   </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/heinrich.jpg"/>
+    <br>
+    <h5>Lukas Heinrich</h5> Technical University Munich
+  </div>
   <div class="col center-block text-center"></div>
 </div>
 </div>
-<br>
 
+<div class="container">
+<div class="row no-gutters">
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/is_pillepich_square.jpg"/>
+    <br>
+    <h5>Annalisa Pillepich</h5>MPI
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/zou.jpg"/>
+    <br>
+    <h5>James Zou</h5>Stanford
+  </div>
+<div class="col center-block text-center"></div>
+</div>
+</div>
+<br>
 
 <br>
 
@@ -153,11 +173,21 @@ ML4Astro 2025 will be held in the **Victoria Learning Theatre, Room 182 in the [
 
 **Parking**: The closest parking is the [North Parkade - 6115 Student Union Boulevard](https://parking.ubc.ca/map). Cost: $20 CAD for the day.
 
+<br>
+
 ## Lunch Options
 
 * Coffee and snacks will be provided at the start of the meeting and for the morning and afternoon breaks, but attendees will need to bring or procure their own lunch.
 * There are many options a short walk away from Irving K. Barber along University Blvd, including within the student centre (the "Nest").
 * See [UBC's list of restaurants and food courts](https://visit.ubc.ca/eat-drink-and-stay/restaurants/) for ideas.
+
+<br>
+
+## Lodging
+
+The West Coast Suites is the best place to stay close to ML4Astro and is steps away from the venue: https://suitesatubc.com/west-coast-suites-vancouver/
+
+For those looking to stay downtown, The Sylvia is close to Stanley Park and a great value: https://sylviahotel.com/
 
 <br>
 
