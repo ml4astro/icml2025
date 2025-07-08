@@ -197,7 +197,7 @@ ML4Astro 2025 will be held in the **Victoria Learning Theatre, Room 182 in the [
 ## Lodging
 
 The [West Coast Suites](https://suitesatubc.com/west-coast-suites-vancouver/) is the best place to stay close to ML4Astro and is steps away from the venue.
-For those looking to stay downtown, The [Sylvia Hotel](https://sylviahotel.com/) is close to Stanley Park and a great value.
+For those looking to stay downtown, the [Sylvia Hotel](https://sylviahotel.com/) is close to Stanley Park and a great value.
 
 <br>
 
