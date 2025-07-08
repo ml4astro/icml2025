@@ -48,7 +48,7 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
     <h5>Berthy Feng</h5>MIT/IAIFI
   </div>
   <div class="col center-block text-center">
-    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/heinrich.jpg"/>
+    <img style="width:100%; object-fit:cover; aspect-ratio: 2/1;" src="/icml2025/assets/heinrich.jpg"/>
     <br>
     <h5>Lukas Heinrich</h5> Technical University Munich
   </div>
