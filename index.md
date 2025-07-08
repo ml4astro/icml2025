@@ -74,7 +74,7 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
     </div>
     <!-- Placeholder cell -->
     <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
-      <div style="width: 100%; aspect-ratio: 1/1; background: #fff; border-radius: 8px; border: 2px dashed #eee;"></div>
+      <div style="width: 100%; aspect-ratio: 1/1; background: #fff; border-radius: 8px; border: 2px #fff;"></div>
     </div>
   </div>
 </div>
@@ -86,33 +86,28 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
 <div class="container">
   <div class="row no-gutters">
     <!-- Siddharth Mishra-Sharma -->
-    <div class="col-3 d-flex flex-column align-items-center text-center mb-4">
+    <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
       <img src="/icml2025/assets/sharma.png"
            style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
       <h5 class="mt-2 mb-1" style="font-weight: bold;">Siddharth Mishra-Sharma</h5>
       <div>Anthropic/Boston University</div>
     </div>
     <!-- Ann Zabludoff -->
-    <div class="col-3 d-flex flex-column align-items-center text-center mb-4">
+    <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
       <img src="/icml2025/assets/zabludoff.jpeg"
            style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
       <h5 class="mt-2 mb-1" style="font-weight: bold;">Ann Zabludoff</h5>
       <div>University of Arizona/Steward Observatory</div>
     </div>
     <!-- Joshua S. Speagle -->
-    <div class="col-3 d-flex flex-column align-items-center text-center mb-4">
+    <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
       <img src="/icml2025/assets/speagle.jpg"
            style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
       <h5 class="mt-2 mb-1" style="font-weight: bold;">Joshua S. Speagle (沈佳士)</h5>
       <div>University of Toronto</div>
     </div>
-    <!-- Placeholder cell -->
-    <div class="col-3 d-flex flex-column align-items-center text-center mb-4">
-      <div style="width: 100%; aspect-ratio: 1/1; background: #fff; border-radius: 8px; border: 2px dashed #eee;"></div>
-    </div>
   </div>
 </div>
-
 
 <br>
 <br>
