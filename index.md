@@ -99,7 +99,7 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
       <h5 class="mt-2 mb-1" style="font-weight: bold;">Ann Zabludoff</h5>
       <div>University of Arizona/Steward Observatory</div>
     </div>
-    <!-- Joshua S. Speagle -->
+    <!-- Joshua Speagle -->
     <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
       <img src="/icml2025/assets/speagle.jpg"
            style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
