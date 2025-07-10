@@ -156,11 +156,7 @@ The submission portal is now closed. Please volunteer as a reviewer and register
 
 # Registration
 
-To register for the workshop (either in-person or remotely), submit the form below. The registration deadline is **July 6th, 23:59 AOE**. Workshop registration is free.
-
-<div style=" display: flex; justify-content: center; align-items: center;"  class="clearfix">
-  <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdQyiAo99F_BXt0fjsPYM49Sf9IyFSYPGwyye9c37-jnLOQgw/viewform?usp=dialog">Workshop Registration</a>
-</div>
+Registration for the workshop is now closed. If you have registered, we hope to see you in Vancouver!
 
 <br>
 
