@@ -181,8 +181,8 @@ All times below are in Pacific Daylight Time.
       <tr>
         <th scope="row"><nobr>14:15-15:15</nobr> </th>
         <td> Panel Discussion</td>
-        <td>Building and Maintaining Successful Interdisciplinary Partnerships to Advance AI for Scientific Research</td>
-        <td><b>Panelists</b>: Siddharth Mishra-Sharma, Ann Zabludoff, Joshua S. Speagle</td>
+        <td>Building and Maintaining Successful Interdisciplinary Partnerships to Advance AI for Scientific Research</br>
+        <b>Panelists</b>: Siddharth Mishra-Sharma, Ann Zabludoff, Joshua S. Speagle</td>
       </tr>
     <tr>
       <th scope="row"><nobr>15:15-15:45</nobr> </th>
