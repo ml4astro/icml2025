@@ -202,7 +202,7 @@ All times below are in Pacific Daylight Time.
       <tr>
         <th scope="row"><nobr>16:15-16:45</nobr> </th>
         <td> Keynote </td>
-        <td><b>Berthy Feng</b>:</td>
+        <td><b>Berthy Feng</b></td>
       </tr>
       <tr>
         <th scope="row"><nobr>16:45-18:00</nobr> </th>
