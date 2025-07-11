@@ -114,7 +114,106 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
 
 ### Workshop Schedule
 
-*Coming soon - The detailed schedule will be announced after the abstract submission and review process.*
+All times below are in Pacific Daylight Time.
+
+<table class="table table-striped">
+  <tbody>      
+    <tr>
+      <th scope="row"><nobr>8:45-8:50</nobr> </th>
+      <td>Introduction</td>
+      <td>Welcome and Opening Words</td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>8:50-9:20</nobr> </th>
+      <td>Keynote</td>
+      <td><b>Annalisa Pillepich</b></td>
+    </tr>     
+    <tr>
+      <th scope="row"><nobr>9:20-9:35</nobr> </th>
+      <td>Spotlight</td>
+      <td><b>Bonny Wang</b>: Set-based Implicit Likelihood Inference of Galaxy Cluster Mass</td>
+    </tr> 
+    <tr>
+      <th scope="row"><nobr>9:35-9:50</nobr> </th>
+      <td>Spotlight</td>
+      <td><b>Aizhan Akhmetzhanova</b>: Detecting Model Misspecification in Cosmology with Scale-Dependent Normalizing Flows</td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>9:50-10:15</nobr> </th>
+      <td>Break</td>
+      <td>Morning Coffee Break</td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>10:15-10:45</nobr> </th>
+      <td>Keynote</td>
+      <td><b>Shirley Ho</b></td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>10:45-11:00</nobr> </th>
+      <td>Spotlight</td>
+      <td><b>Xueqing Xu</b>: Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics</td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>11:00-11:15</nobr> </th>
+      <td>Spotlight</td>
+      <td><b>Xiaosheng Zhao</b>: Finetuning Stellar Spectra Foundation Models with LoRA</td>
+    </tr>
+      <tr>
+        <th scope="row"><nobr>11:15-11:45</nobr> </th>
+        <td> Keynote </td>
+        <td><b>James Zou</b></td>
+      </tr>
+    <tr>
+      <th scope="row"><nobr>11:45-12:45</nobr> </th>
+      <td>Poster Session</td>
+      <td>Main Poster Session</td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>12:45-13:45</nobr> </th>
+      <td>Break</td>
+      <td>Lunch Break</td>
+    </tr>
+      <tr>
+        <th scope="row"><nobr>13:45-14:15</nobr> </th>
+        <td> Keynote </td>
+        <td><b>Lukas Heinrich</b></td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>14:15-15:15</nobr> </th>
+        <td> Panel Discussion</td>
+        <td>Building and Maintaining Successful Interdisciplinary Partnerships to Advance AI for Scientific Research</td>
+      </tr>
+        <td><b>Panelists</b>: Siddharth Mishra-Sharma, Ann Zabludoff, Joshua S. Speagle</td>
+      </tr>
+    <tr>
+      <th scope="row"><nobr>15:15-15:45</nobr> </th>
+      <td>Break</td>
+      <td>Afternoon Coffee Break</td>
+    </tr>
+      <tr>
+        <th scope="row"><nobr>15:45-16:00</nobr> </th>
+        <td>Spotlight</td>
+        <td><b>Yunyi Shen</b>: Mixture-of-Expert Variational Autoencoders for Cross-Modality Embedding of Type Ia Supernova Data</td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>16:00-16:15</nobr> </th>
+        <td>Spotlight</td>
+        <td><b>Anirudh Kotamraju</b>: ComptonINR: Implicit Neural Representations for Fast Modeling of Compton Telescope Point Spread Functions</td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>16:15-16:45</nobr> </th>
+        <td> Keynote </td>
+        <td><b>Berthy Feng</b>:</td>
+      </tr>
+      <tr>
+        <th scope="row"><nobr>16:45-18:00</nobr> </th>
+        <td> Poster Session </td>
+        <td> Secondary Poster Session </td>
+      </tr>
+  </tbody>
+</table>
+
+
 
 <br>
 
