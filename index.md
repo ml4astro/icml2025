@@ -578,15 +578,15 @@ We are grateful for the support from our sponsors.
 
 <div class="row no-gutters">
   <div class="col center-block text-center">
-    <img style="width:20%; object-fit:cover;" src="/icml2025/assets/iaifi.png"/>
+    <img style="width:60%; object-fit:cover;" src="/icml2025/assets/iaifi.png"/>
     <br>
   </div>
   <div class="col center-block text-center">
-    <img style="width:20%; object-fit:cover;" src="/icml2025/assets/ciela_logo.png"/>
+    <img style="width:80%; object-fit:cover;" src="/icml2025/assets/ciela_logo.png"/>
     <br>
   </div>
   <div class="col center-block text-center">
-    <img style="width:20%; object-fit:cover;" src="/icml2025/assets/ubc_logo.png"/>
+    <img style="width:60%; object-fit:cover;" src="/icml2025/assets/ubc_logo.png"/>
     <br>
   </div>
 </div>
