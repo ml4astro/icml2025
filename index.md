@@ -5,13 +5,13 @@ background: "/assets/background.jpg"
 
 # Rationale
 
-As modern astrophysical surveys deliver an unprecedented amount of data, from the imaging of billions of distant galaxies to the innermost region of supermassive blackholes, the integration of AI into scientific workflows, which have stringent accuracy requirements, becomes increasingly crucial to exploit the full information content of these datasets. In addition, the multimodal and publicly accessible nature of astronomical data creates a fertile development ground for large scientific models, with applications far beyond astronomy. 
+As modern astrophysical surveys deliver an unprecedented amount of data, from the imaging of billions of distant galaxies to the innermost region of supermassive blackholes, the integration of AI into scientific workflows, which have stringent accuracy requirements, becomes increasingly crucial to exploit the full information content of these datasets. In addition, the multimodal and publicly accessible nature of astronomical data creates a fertile development ground for large scientific models, with applications far beyond astronomy.
 
 Following successful iterations of this workshop at [ICML 2022](https://ml4astro.github.io/icml2022/) and [ICML 2023](https://ml4astro.github.io/icml2023/), our continued goal for this workshop series is to **bring together Machine Learning researchers and domain experts in the field of Astrophysics** to discuss key opportunities, create new synergies and help promote the large-scale application of AI for science. We expect this workshop to appeal to ICML audiences as an opportunity to connect their research interests to concrete and outstanding scientific challenges.
 
 We welcome in particular submissions that target or _report on_ the following non-exhaustive list of problems:
 
-- Foundation models for astrophysics and their (potential) impact on discovery 
+- Foundation models for astrophysics and their (potential) impact on discovery
 - Integration of LLMs and autonomous agents in scientific workflows
 - Efficient high-dimensional Likelihood-based and Simulation-Based Inference
 - Robustness to covariate shifts and model misspecification
@@ -92,6 +92,12 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
       <h5 class="mt-2 mb-1" style="font-weight: bold;">Siddharth Mishra-Sharma</h5>
       <div>Anthropic/Boston University</div>
     </div>
+    <!-- Shirley Ho -->
+    <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
+      <img src="/icml2025/assets/ho.jpg"
+           style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
+      <h5 class="mt-2 mb-1" style="font-weight: bold;">Shirley Ho</h5>
+      <div>CCA/Polymathic</div>
     <!-- Ann Zabludoff -->
     <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
       <img src="/icml2025/assets/zabludoff.jpeg"
@@ -132,7 +138,7 @@ All times below are in Pacific Daylight Time.
       <th scope="row"><nobr>9:20-9:35</nobr> </th>
       <td>Spotlight</td>
       <td><b>Bonny Wang</b>: Set-based Implicit Likelihood Inference of Galaxy Cluster Mass</td>
-    </tr> 
+    </tr>
     <tr>
       <th scope="row"><nobr>9:35-9:50</nobr> </th>
       <td>Spotlight</td>
@@ -218,7 +224,208 @@ All times below are in Pacific Daylight Time.
 
 ### Accepted Contributions
 
-*Coming soon - Accepted papers will be listed here shortly.* 
+<table class="table table-striped">
+  <tbody>      
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/1_Causal_Evidence_for_the_Prim.pdf">Causal Evidence for the Primordiality of Colors in Trans-Neptunian Objects</a></th>
+      <td>Benjamin L. Davis\*; Mohamad Ali-Dib\*; Yujia Zheng\*; Zehao Jin\*; Kun Zhang; Andrea Valerio Macciò</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/2_Emulating_Dark_Matter_Halo_M.pdf">Emulating Dark Matter Halo Merger Trees with Graph Generative Models</a></th>
+      <td>Tri Nguyen\*; Chirag Modi; Siddharth Mishra-Sharma; L. Y. Aaron Yung; Rachel Somerville</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/6_DESA_a_Multi_Modal_approach_.pdf">DESA - a Multi-Modal approach for Stellar Astrophysics</a></th>
+      <td>Ilay Kamai\*; Alex M. Bronstein; Hagai B. Perets</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/9_Differentiable_Stellar_Atmos.pdf">Differentiable Stellar Atmospheres with Physics-Informed Neural Networks</a></th>
+      <td>Jiadong Li\*; Mingjie Jian\*; Yuan-Sen Ting\*; Gregory M. Green</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/11_Causal_Discovery_of_Latent_.pdf">Causal Discovery of Latent Variables in Galactic Archaeology</a></th>
+      <td>Zehao Jin\*; Yuxi(Lucy) Lu\*; Yuan-Sen Ting; Yujia Zheng; Tobias Buck</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/12_AstroSage_Leading_Performan.pdf">AstroSage: Leading Performance in Astronomy Q&A with a 70B-Parameter Domain-Specialized Model</a></th>
+      <td>Tijmen de Haan\*; Yuan-Sen Ting; Tirthankar Ghosal; Tuan Dung Nguyen; Alberto Accomazzi; Emily Herron; Vanessa Lama; Rui Pan; Azton Wells; Nesar Ramachandra</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/13_Physics_Guided_Symbolic_Reg.pdf">Physics-Guided Symbolic Regression
+through Recursive Structure Discovery</a></th>
+      <td>Wassim Tenachi\*; Rodrigo Ibata\*; Alejandro Miguel Illescas Giménez\*;  Yashar Hezaveh; Laurence Perreault Levasseur; Pierre-Luc Bacon</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/14_Simulation_Efficient_Cosmol.pdf">Simulation-Efficient Cosmological Inference with Multi-Fidelity SBI</a></th>
+      <td>Leander Thiele\*; Adrian E. Bayer; Naoya Takeishi</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/15_Teaching_LLMs_to_Speak_Spec.pdf">Teaching LLMs to Speak Spectroscopy</th>
+      <td>Nesar Ramachandra\*; Yuan-Sen Ting; Zechang Sun; Azton Wells; Salman Habib</a></td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/16_BaryonBridge_Stochastic_Int.pdf">BaryonBridge: Stochastic Interpolant Model for Fast Hydrodynamical Simulations</th>
+      <td>Benjamin Horowitz\*; Carolina Cuesta-Lazaro; Omar Yehia</a></td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/17_IrisML_Neural_Posterior_Est.pdf">IrisML: Neural Posterior Estimation for the Spectral Energy Distribution fitting</a></th>
+      <td>Mateusz Kapusta\*</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/19_Finetuning_Stellar_Spectra_.pdf">Finetuning Stellar Spectra Foundation Models with LoRA</th>
+      <td>Xiaosheng Zhao\*; Yuan-Sen Ting; Alexander S. Szalay; Yang Huang</a></td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/20_Scaling_Laws_for_Transforme.pdf">Scaling Laws for Transformer-Based Stellar Spectral Emulation</a></th>
+      <td>Tomasz Różański\*; Yuan-Sen Ting</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/23_Degeneracy_Aware_Pulsar_Par.pdf">Degeneracy-Aware Pulsar Parameter Estimation from Light Curves via Deep
+Learning and Test-Time Optimization</a></th>
+      <td>Abu Bucker Siddik\*; Diane Oyen; Soumi De; Greg Olmschenk; Constantinos Kalapotharakos</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/25_VADER_A_Variational_Autoenc.pdf">VADER: A Variational Autoencoder to Infer Planetary Masses and Gas-Dust
+Disk Properties Around Young Stars</a></th>
+      <td>Sayed Shafaat Mahmud\*; Sayantan Auddy; Neal Turner; Jeffrey S. Bary</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/26_A_COMPASS_to_Model_Comparis.pdf">A COMPASS to Model Comparison and Simulation-Based Inference
+in Galactic Chemical Evolution</a></th>
+      <td>Berkay Günes\*; Sven Buder; Tobias Buck</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/27_Causal_Foundation_Models_Di.pdf">Causal Foundation Models: Disentangling Physics from Instrument Properties</th>
+      <td>Daniel Muthukrishna\*; Jeroen Audenaert\*; Paul F. Gregory; David W. Hogg; V. Ashley Villar</a></td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/30_ResearchBench_Evaluating_AI.pdf">ResearchBench: Evaluating AI Agents on End-To-End Astrophysics Research Paper Replication</th>
+      <td>Christine Ye*; Sihan Yuan; Suchetha Cooray; Steven Dillmann; Ian L. V. Roque; Dalya Baron; Philipp Frank; Sergio Martin-Alvarez; Nolan Koblischke; Frank J. Qu; Diyi Yang; Risa Wechsler; Ioana Ciucǎ</a></td>
+    </tr>
+
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/31_Fisher_Score_Matching_for_S.pdf">Fisher Score Matching for Simulation-Based Forecasting and Inference</a></th>
+      <td>Ce Sui\*; Shivam Pandey; Benjamin D. Wandelt</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/33_Mixture_of_Expert_Variation.pdf">Mixture-of-Expert Variational Autoencoders for Cross-Modality Embedding of Type Ia Supernova Data</a></th>
+      <td>Yunyi Shen\*; Alexander T. Gagliano\*</td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/34_Detecting_Model_Misspecific.pdf">Detecting Model Misspecification in Cosmology with Scale-Dependent Normalizing Flows</a></th>
+      <td>Aizhan Akhmetzhanova\*; Carolina Cuesta-Lazaro; Siddharth Mishra-Sharma </td>
+    </tr>
+
+    <tr>
+      <th scope="row"><a href="/icml2025/assets/35_Blind_Strong_Gravitational_.pdf">Blind Strong Gravitational Lensing Inversion: Joint Inference of Source and Lens Mass with Score-Based Models</a></th>
+      <td>Gabriel Missael Barco\*; Ronan Legin; Connor Stone; Yashar Hezaveh; Laurence Perreault-Levasseur </td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/37_Joint_Modeling_of_Quasar_Va.pdf">Joint Modeling of Quasar Variability and Accretion Disk Reprocessing using Latent Stochastic Differential Equations</a></th>
+      <td>Joshua Fagin\*; James Hung-Hsu Chan; Henry Best; Matthew O’Dowd; K. E. Saavik Ford; Matthew J. Graham; Ji Won Park; V. Ashley Villar </td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/39_Predicting_the_Subhalo_Mass.pdf">Predicting the Subhalo Mass Functions in Simulations from Galaxy Images</a></th>
+      <td>Andreas Filipp\*; Tri Nguyen; Laurence Perreault-Levasseur; Jonah Rose; Chris Lovell; Nicloas Payot; Francisco Villaescusa-Navarro; Yashar Hezaveh </td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/40_CosmoFlow_Scale_Aware_Repre.pdf">CosmoFlow: Scale-Aware Representation Learning for Cosmology with Flow Matching</a></th>
+      <td>Sidharth Kannan\*; Tian Qiu; Carolina Cuesta-Lazaro; Haewon Jeong</td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/42_Simulation_Based_Pretrainin.pdf">Simulation-Based Pretraining and Domain Adaptation for Astronomical Time Series Tasks with Minimal Labeled Data</th>
+      <td>Rithwik Gupta\*; Daniel Muthukrishna; Jeroen Audenaert</a></td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/44_Open_Source_Planning_Contro.pdf">Open Source Planning & Control System with Language Agents for Autonomous Scientific Discovery</a></th>
+      <td>Licong Xu; Milind Sarkar; Anto I. Lonappan; Íñigo Zubeldia; Pablo Villanueva-Domingo; Santiago Casas; Christian Fidler; Chetana Amancharla; Ujjwal Tiwari; Adrian Bayer; Chadi Ait Ekioui; Miles Cranmer; Adrian Dimitrov; James Fergusson; Kahaan Gandhi; Sven Krippendorf; Andrew Laverick; Julien Lesgourgues; Antony Lewis; Thomas Meier; Blake Sherwin; Kristen Surrao; Francisco Villaescusa-Navarro; Chi Wang; Xueqing Xu; Boris Bolliet\*</td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/45_Transfer_Learning_for_Trans.pdf">Transfer Learning for Transient Classification: From Simulations to Real Data
+and ZTF to LSST</a></th>
+      <td>Rithwik Gupta\*; Daniel Muthukrishna; Nabeel Rehemtulla; Ved Shah</td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/46_ComptonINR_Implicit_Neural_.pdf">ComptonINR: Implicit Neural Representations for Fast Modeling of Compton Telescope Point Spread Functions</a></th>
+      <td>Anirudh Kotamraju\*; Andreas Zoglauer</td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/47_Image_Based_Multi_Survey_Cl.pdf">Image-Based Multi-Survey Classification of Light Curves with a Pre-Trained Vision Transformer</a></th>
+      <td>Daniel Moreno-Cartagena\*; Guillermo Cabrera-Vives; Alejandra M. Muñoz Arancibia; Pavlos Protopapas; Francisco Förster; Márcio Catelan; A. Bayo; Pablo A. Estévez; P. Sánchez-Sáez; Franz E. Bauer; M. Pavez-Herrera; L. Hernández-García; Gonzalo Rojas</td>
+    </tr>
+
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/49_Addressing_Misspecified_Phy.pdf">Addressing Misspecified Physical Models: Correcting Underspecified Lens Convergence Models via Data-Driven Updates</a></th>
+      <td>Nicolas Payot\*; Gabriel Missael Barco; Laurence Perreault-Levasseur; Yashar Hezaveh</td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/52_Pokie_Posterior_Accuracy_an.pdf">Pokie: Posterior Accuracy and Model Comparison</a></th>
+      <td>Sammy Sharief\*; Justine Zeghal; Gabriel Missael Barco; Pablo Lemos; Yashar Hezaveh; Laurence Perreault-Levasseur </td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/53_Bridging_Simulators_with_Co.pdf">Bridging Simulators with Conditional Optimal Transport</a></th>
+      <td>Justine Zeghal\*; Benjamin Remy; Yashar Hezaveh; François Lanusse; Laurence Perreault-Levasseur </td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/54_Astro_MoE_Mixture_of_Expert.pdf">Astro-MoE: Mixture of Experts for Multiband Astronomical Time Series</a></th>
+      <td>Martina Cádiz-Leyton\*; Guillermo Cabrera-Vives; Pavlos Protopapas; Daniel Moreno-Cartagena; Ignacio Becker </td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/56_Evaluating_Retrieval_Augmen.pdf">Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics</a></th>
+      <td>Xueqing Xu\*; Boris Bolliet\*; Adrian Dimitrov\*; Andrew Laverick; Francisco Villaescusa-Navarro; Licong Xu; Íñigo Zubeldia </td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/58_Learning_Representations_of.pdf">Learning Representations of Event Time Series with Sparse Autoencoders for Anomaly Detection, Similarity Search, and Unsupervised Classification</a></th>
+      <td>Steven Dillmann*; Juan Rafael Martínez-Galarza </td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/60_Set_based_Implicit_Likeliho.pdf">Set-based Implicit Likelihood Inference of Galaxy Cluster Mass</a></th>
+      <td>Bonny Y. Wang*; Leander Thiele</td>
+    </tr>
+
+    <tr>
+      <th scope="row"<a href="/icml2025/assets/61_A_Fast_Generative_Framework.pdf">A Fast Generative Framework for High-dimensional Posterior Sampling: Application to CMB Delensing</a></th>
+      <td>Mohammad-Hadi Sotoudeh\*; Pablo Lemos; Laurence Perreault-Levasseur</td>
+    </tr>
+
+  </tbody>
+</table>
+
 
 <br>
 
@@ -226,9 +433,9 @@ All times below are in Pacific Daylight Time.
 
 ## Important Dates
 
-- *Abstract Submission Deadline:* June 9th (23:59, AoE)
-- *Notification Deadline:* June 28th
-- *Camera-Ready Paper Deadline:* July 14th (23:59, AoE)
+- ~~*Abstract Submission Deadline:* June 9th (23:59, AoE)~~
+- ~~*Notification Deadline:* June 28th~~
+- ~~*Camera-Ready Paper Deadline:* July 14th (23:59, AoE)~~
 - *Workshop Date:* July 20th (ICML, Vancouver)
 
 <br>
@@ -244,7 +451,7 @@ All times below are in Pacific Daylight Time.
 
 ## Submission Process
 
-The submission portal is now closed. Please volunteer as a reviewer and register to attend the workshop! 
+The submission portal is now closed. Please volunteer as a reviewer and register to attend the workshop!
 
 <br>
 
@@ -305,7 +512,7 @@ Thank you to all who have volunteered to serve as a reviewer! The review process
 
 <br>
 
-# SOC 
+# SOC
 
 <div class="container">
 <div class="row no-gutters">
@@ -336,7 +543,7 @@ Thank you to all who have volunteered to serve as a reviewer! The review process
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/huertas-company.png"/>
     <br>
-    <h5>Marc Huertas-Company</h5>IAC 
+    <h5>Marc Huertas-Company</h5>IAC
   </div>
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/mciver.jpg"/>
@@ -346,7 +553,7 @@ Thank you to all who have volunteered to serve as a reviewer! The review process
 </div>
 <br>
 
-<div class="row no-gutters"> 
+<div class="row no-gutters">
   <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/villaescusa.png"/>
     <br>
@@ -372,11 +579,10 @@ For any questions, please send an email to *ml4astro2025[at]gmail.com*.
 We are grateful for the support from our sponsors.
 
 
-<div class="row no-gutters"> 
+<div class="row no-gutters">
   <div class="col center-block text-center">
     <img style="width:20%; object-fit:cover;" src="/icml2025/assets/iaifi.png"/>
     <br>
   </div>
 </div>
 <br>
-
