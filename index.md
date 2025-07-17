@@ -268,13 +268,13 @@ through Recursive Structure Discovery</a></th>
     </tr>
 
     <tr>
-      <th scope="row"><a href="/icml2025/assets/15_Teaching_LLMs_to_Speak_Spec.pdf">Teaching LLMs to Speak Spectroscopy</th>
-      <td>Nesar Ramachandra\*; Yuan-Sen Ting; Zechang Sun; Azton Wells; Salman Habib</a></td>
+      <th scope="row"><a href="/icml2025/assets/15_Teaching_LLMs_to_Speak_Spec.pdf">Teaching LLMs to Speak Spectroscopy</a></th>
+      <td>Nesar Ramachandra\*; Yuan-Sen Ting; Zechang Sun; Azton Wells; Salman Habib</td>
     </tr>
 
     <tr>
-      <th scope="row"><a href="/icml2025/assets/16_BaryonBridge_Stochastic_Int.pdf">BaryonBridge: Stochastic Interpolant Model for Fast Hydrodynamical Simulations</th>
-      <td>Benjamin Horowitz\*; Carolina Cuesta-Lazaro; Omar Yehia</a></td>
+      <th scope="row"><a href="/icml2025/assets/16_BaryonBridge_Stochastic_Int.pdf">BaryonBridge: Stochastic Interpolant Model for Fast Hydrodynamical Simulations</a></th>
+      <td>Benjamin Horowitz\*; Carolina Cuesta-Lazaro; Omar Yehia</td>
     </tr>
 
     <tr>
@@ -283,8 +283,8 @@ through Recursive Structure Discovery</a></th>
     </tr>
 
     <tr>
-      <th scope="row"><a href="/icml2025/assets/19_Finetuning_Stellar_Spectra_.pdf">Finetuning Stellar Spectra Foundation Models with LoRA</th>
-      <td>Xiaosheng Zhao\*; Yuan-Sen Ting; Alexander S. Szalay; Yang Huang</a></td>
+      <th scope="row"><a href="/icml2025/assets/19_Finetuning_Stellar_Spectra_.pdf">Finetuning Stellar Spectra Foundation Models with LoRA</a></th>
+      <td>Xiaosheng Zhao\*; Yuan-Sen Ting; Alexander S. Szalay; Yang Huang</td>
     </tr>
 
     <tr>
@@ -311,13 +311,13 @@ in Galactic Chemical Evolution</a></th>
     </tr>
 
     <tr>
-      <th scope="row"><a href="/icml2025/assets/27_Causal_Foundation_Models_Di.pdf">Causal Foundation Models: Disentangling Physics from Instrument Properties</th>
-      <td>Daniel Muthukrishna\*; Jeroen Audenaert\*; Paul F. Gregory; David W. Hogg; V. Ashley Villar</a></td>
+      <th scope="row"><a href="/icml2025/assets/27_Causal_Foundation_Models_Di.pdf">Causal Foundation Models: Disentangling Physics from Instrument Properties</a></th>
+      <td>Daniel Muthukrishna\*; Jeroen Audenaert\*; Paul F. Gregory; David W. Hogg; V. Ashley Villar</td>
     </tr>
 
     <tr>
-      <th scope="row"><a href="/icml2025/assets/30_ResearchBench_Evaluating_AI.pdf">ResearchBench: Evaluating AI Agents on End-To-End Astrophysics Research Paper Replication</th>
-      <td>Christine Ye*; Sihan Yuan; Suchetha Cooray; Steven Dillmann; Ian L. V. Roque; Dalya Baron; Philipp Frank; Sergio Martin-Alvarez; Nolan Koblischke; Frank J. Qu; Diyi Yang; Risa Wechsler; Ioana Ciucǎ</a></td>
+      <th scope="row"><a href="/icml2025/assets/30_ResearchBench_Evaluating_AI.pdf">ResearchBench: Evaluating AI Agents on End-To-End Astrophysics Research Paper Replication</a></th>
+      <td>Christine Ye*; Sihan Yuan; Suchetha Cooray; Steven Dillmann; Ian L. V. Roque; Dalya Baron; Philipp Frank; Sergio Martin-Alvarez; Nolan Koblischke; Frank J. Qu; Diyi Yang; Risa Wechsler; Ioana Ciucǎ</td>
     </tr>
 
 
@@ -357,8 +357,8 @@ in Galactic Chemical Evolution</a></th>
     </tr>
 
     <tr>
-      <th scope="row"<a href="/icml2025/assets/42_Simulation_Based_Pretrainin.pdf">Simulation-Based Pretraining and Domain Adaptation for Astronomical Time Series Tasks with Minimal Labeled Data</th>
-      <td>Rithwik Gupta\*; Daniel Muthukrishna; Jeroen Audenaert</a></td>
+      <th scope="row"<a href="/icml2025/assets/42_Simulation_Based_Pretrainin.pdf">Simulation-Based Pretraining and Domain Adaptation for Astronomical Time Series Tasks with Minimal Labeled Data</a></th>
+      <td>Rithwik Gupta\*; Daniel Muthukrishna; Jeroen Audenaert</td>
     </tr>
 
     <tr>
