@@ -98,6 +98,7 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
            style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
       <h5 class="mt-2 mb-1" style="font-weight: bold;">Shirley Ho</h5>
       <div>CCA/Polymathic</div>
+    </div>
     <!-- Ann Zabludoff -->
     <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
       <img src="/icml2025/assets/zabludoff.jpeg"
@@ -217,7 +218,6 @@ All times below are in Pacific Daylight Time.
       </tr>
   </tbody>
 </table>
-
 
 
 <br>
@@ -422,10 +422,8 @@ and ZTF to LSST</a></th>
       <th scope="row"><a href="/icml2025/assets/61_A_Fast_Generative_Framework.pdf">A Fast Generative Framework for High-dimensional Posterior Sampling: Application to CMB Delensing</a></th>
       <td>Mohammad-Hadi Sotoudeh*; Pablo Lemos; Laurence Perreault-Levasseur</td>
     </tr>
-
   </tbody>
 </table>
-
 
 <br>
 
