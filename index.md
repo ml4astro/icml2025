@@ -449,7 +449,7 @@ and ZTF to LSST</a></th>
 
 ## Submission Process
 
-The submission portal is now closed. Please volunteer as a reviewer and register to attend the workshop!
+The submission portal is now closed.
 
 <br>
 
@@ -576,10 +576,17 @@ For any questions, please send an email to *ml4astro2025[at]gmail.com*.
 
 We are grateful for the support from our sponsors.
 
-
 <div class="row no-gutters">
   <div class="col center-block text-center">
     <img style="width:20%; object-fit:cover;" src="/icml2025/assets/iaifi.png"/>
+    <br>
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:20%; object-fit:cover;" src="/icml2025/assets/ciela_logo.png"/>
+    <br>
+  </div>
+  <div class="col center-block text-center">
+    <img style="width:20%; object-fit:cover;" src="/icml2025/assets/ubc_logo.png"/>
     <br>
   </div>
 </div>
