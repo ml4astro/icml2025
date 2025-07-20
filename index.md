@@ -121,7 +121,7 @@ All times below are in Pacific Daylight Time.
     <tr>
       <th scope="row"><nobr>8:45-8:50</nobr> </th>
       <td>Introduction</td>
-      <td>Welcome and Opening Words</td>
+      <td>Welcome and Opening Remarks</td>
     </tr>
     <tr>
       <th scope="row"><nobr>8:50-9:20</nobr> </th>
