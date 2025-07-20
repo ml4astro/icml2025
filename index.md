@@ -106,6 +106,13 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
       <h5 class="mt-2 mb-1" style="font-weight: bold;">Joshua Speagle (沈佳士)</h5>
       <div>University of Toronto</div>
     </div>
+    <!-- Lukas Heinrich -->
+    <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
+      <img src="/icml2025/assets/heinrich.png"
+           style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
+      <h5 class="mt-2 mb-1" style="font-weight: bold;">Lukas Heinrich</h5>
+      <div>Technical University Munich</div>
+    </div>
   </div>
 </div>
 
@@ -152,7 +159,7 @@ All times below are in Pacific Daylight Time.
         <th scope="row"><nobr>10:45-11:45</nobr> </th>
         <td> Panel Discussion</td>
         <td>Building and Maintaining Successful Interdisciplinary Partnerships to Advance AI for Scientific Research<br>
-        <b>Panelists</b>: Siddharth Mishra-Sharma, Ann Zabludoff, Joshua S. Speagle</td>
+        <b>Panelists</b>: Siddharth Mishra-Sharma, Ann Zabludoff, Joshua S. Speagle, Lukas Heinrich</td>
       </tr>
     <tr>
       <th scope="row"><nobr>11:45-12:45</nobr> </th>
