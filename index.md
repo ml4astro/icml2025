@@ -103,7 +103,7 @@ _Note: As a co-located event, registration to ICML 2025 is not required to atten
     <div class="col-4 d-flex flex-column align-items-center text-center mb-4">
       <img src="/icml2025/assets/speagle.jpg"
            style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px; background: #fff;" />
-      <h5 class="mt-2 mb-1" style="font-weight: bold;">Joshua S. Speagle (沈佳士)</h5>
+      <h5 class="mt-2 mb-1" style="font-weight: bold;">Joshua Speagle (沈佳士)</h5>
       <div>University of Toronto</div>
     </div>
   </div>
