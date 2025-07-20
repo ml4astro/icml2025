@@ -212,7 +212,7 @@ All times below are in Pacific Daylight Time.
         <td><b>Berthy Feng</b></td>
       </tr>
       <tr>
-        <th scope="row"><nobr>16:45-18:00</nobr> </th>
+        <th scope="row"><nobr>16:45-17:30</nobr> </th>
         <td> Poster Session </td>
         <td> Secondary Poster Session </td>
       </tr>
