@@ -155,20 +155,11 @@ All times below are in Pacific Daylight Time.
       <td>Keynote</td>
       <td><b>Shirley Ho</b></td>
     </tr>
-    <tr>
-      <th scope="row"><nobr>10:45-11:00</nobr> </th>
-      <td>Spotlight</td>
-      <td><b>Xueqing Xu</b>: Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics</td>
-    </tr>
-    <tr>
-      <th scope="row"><nobr>11:00-11:15</nobr> </th>
-      <td>Spotlight</td>
-      <td><b>Xiaosheng Zhao</b>: Finetuning Stellar Spectra Foundation Models with LoRA</td>
-    </tr>
       <tr>
-        <th scope="row"><nobr>11:15-11:45</nobr> </th>
-        <td> Keynote </td>
-        <td><b>James Zou</b></td>
+        <th scope="row"><nobr>10:45-11:45</nobr> </th>
+        <td> Panel Discussion</td>
+        <td>Building and Maintaining Successful Interdisciplinary Partnerships to Advance AI for Scientific Research<br>
+        <b>Panelists</b>: Siddharth Mishra-Sharma, Ann Zabludoff, Joshua S. Speagle</td>
       </tr>
     <tr>
       <th scope="row"><nobr>11:45-12:45</nobr> </th>
@@ -185,11 +176,20 @@ All times below are in Pacific Daylight Time.
         <td> Keynote </td>
         <td><b>Lukas Heinrich</b></td>
       </tr>
+    <tr>
+      <th scope="row"><nobr>14:15-14:30</nobr> </th>
+      <td>Spotlight</td>
+      <td><b>Xueqing Xu</b>: Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics</td>
+    </tr>
+    <tr>
+      <th scope="row"><nobr>14:30-14:45</nobr> </th>
+      <td>Spotlight</td>
+      <td><b>Xiaosheng Zhao</b>: Finetuning Stellar Spectra Foundation Models with LoRA</td>
+    </tr>
       <tr>
-        <th scope="row"><nobr>14:15-15:15</nobr> </th>
-        <td> Panel Discussion</td>
-        <td>Building and Maintaining Successful Interdisciplinary Partnerships to Advance AI for Scientific Research<br>
-        <b>Panelists</b>: Siddharth Mishra-Sharma, Ann Zabludoff, Joshua S. Speagle</td>
+        <th scope="row"><nobr>14:45-15:15</nobr> </th>
+        <td> Keynote </td>
+        <td><b>James Zou</b></td>
       </tr>
     <tr>
       <th scope="row"><nobr>15:15-15:45</nobr> </th>
