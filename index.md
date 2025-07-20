@@ -170,20 +170,20 @@ All times below are in Pacific Daylight Time.
         <td><b>Lukas Heinrich</b></td>
       </tr>
     <tr>
-      <th scope="row"><nobr>14:15-14:30</nobr> </th>
+      <tr>
+        <th scope="row"><nobr>14:15-14:45</nobr> </th>
+        <td> Keynote </td>
+        <td><b>James Zou</b></td>
+      </tr>
+      <th scope="row"><nobr>14:45-15:00</nobr> </th>
       <td>Spotlight</td>
       <td><b>Xueqing Xu</b>: Evaluating Retrieval-Augmented Generation Agents for Autonomous Scientific Discovery in Astrophysics</td>
     </tr>
     <tr>
-      <th scope="row"><nobr>14:30-14:45</nobr> </th>
+      <th scope="row"><nobr>15:00-15:15</nobr> </th>
       <td>Spotlight</td>
       <td><b>Xiaosheng Zhao</b>: Finetuning Stellar Spectra Foundation Models with LoRA</td>
     </tr>
-      <tr>
-        <th scope="row"><nobr>14:45-15:15</nobr> </th>
-        <td> Keynote </td>
-        <td><b>James Zou</b></td>
-      </tr>
     <tr>
       <th scope="row"><nobr>15:15-15:45</nobr> </th>
       <td>Break</td>
