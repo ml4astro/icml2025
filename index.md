@@ -553,6 +553,11 @@ Thank you to all who have volunteered to serve as a reviewer! The review process
 
 <div class="row no-gutters">
   <div class="col center-block text-center">
+    <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/fabbro.jpg"/>
+    <br>
+    <h5>Sebastien Fabbro</h5>University of Victoria
+  </div>
+  <div class="col center-block text-center">
     <img style="width:100%; object-fit:cover; aspect-ratio: 1/1;" src="/icml2025/assets/villaescusa.png"/>
     <br>
     <h5>Francisco Villaescusa-Navarro</h5>Simons Foundation
