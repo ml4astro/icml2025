@@ -567,7 +567,6 @@ Thank you to all who have volunteered to serve as a reviewer! The review process
     <br>
     <h5>Ashley Villar</h5>Harvard University
   </div>
-  <div class="col center-block text-center"></div>
 </div>
 </div>
 <br>
